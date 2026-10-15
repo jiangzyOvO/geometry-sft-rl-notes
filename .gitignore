@@ -1,0 +1,18 @@
+# This directory contains only the curated experiment record.
+.DS_Store
+.obsidian/
+.venv*/
+__pycache__/
+*.pyc
+models/
+outputs/
+checkpoints/
+wandb/
+vendor/
+*.safetensors
+*.pt
+*.bin
+*.log
+*.tar.gz
+.env
+.env.*

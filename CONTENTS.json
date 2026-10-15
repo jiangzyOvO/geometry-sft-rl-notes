@@ -1,0 +1,86 @@
+{
+  "purpose": "Curated personal experiment record; full engineering project intentionally excluded.",
+  "date": "2026-10-15",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 207,
+      "sha256": "5c8974f79584f98f8661066b1e53daaa5207d8a5457a05b817fdc8741313ee9d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 14106,
+      "sha256": "0ca48458cc07e21936764ae074bf36e853331f5a5cf54bb8df7542374c22a04b"
+    },
+    {
+      "path": "docs/DATA.md",
+      "bytes": 1712,
+      "sha256": "79e6c771cad9c9741c0e4fe40a4dc9bed5747fb7a78079a58f0b85fda328c03b"
+    },
+    {
+      "path": "docs/licenses/Geometry3K_SOURCE_LICENSE",
+      "bytes": 1062,
+      "sha256": "7e9c397c08bccc38de9ed0c63f5a2aeccd22cdda2baace86dc467288fc9db0f0"
+    },
+    {
+      "path": "docs/全部2000题_已加审核批注.pdf",
+      "bytes": 24544162,
+      "sha256": "a0be4385e52ac896e388bfad7d993106c59971712b2348ccf58586f232f86bda"
+    },
+    {
+      "path": "results/README.md",
+      "bytes": 2147,
+      "sha256": "8012e9308c5990c269beb308f91d81fae804fddb5ce54e811b3b3df06feec91a"
+    },
+    {
+      "path": "results/configuration.json",
+      "bytes": 2793,
+      "sha256": "4dba86f4e7fa0c92e8fe3f6a7decce87046331d3581f84ce8a6997256672c576"
+    },
+    {
+      "path": "results/images/geo170k_2875.png",
+      "bytes": 4317,
+      "sha256": "842e5647cd2b3d3fca5fa5a2bdaf6bce4895a7509fc3c79760d15c03086f5e68"
+    },
+    {
+      "path": "results/images/geo170k_5504.png",
+      "bytes": 5181,
+      "sha256": "04bb5d59a38bbcd0901abed5e1b5030305a3146353cec9af9a46997889421f10"
+    },
+    {
+      "path": "results/images/geo170k_8668.png",
+      "bytes": 4798,
+      "sha256": "dc6ea7a720db26b226846657e42f7c66b51f9d9479b817ab0543d8253acda1be"
+    },
+    {
+      "path": "results/images/mathv_identity_1450.png",
+      "bytes": 3836,
+      "sha256": "3459d22b1e77c10ec3d239c018dee623dcd74ec189622b8e91f2451b5f5accc1"
+    },
+    {
+      "path": "results/images/validation_0074.png",
+      "bytes": 30766,
+      "sha256": "9ae52cad417d4dd5d89438d1130fb5a81c274b54c0317c5b53587dbd4bbc0dd7"
+    },
+    {
+      "path": "results/images/validation_0263.png",
+      "bytes": 22405,
+      "sha256": "4976ebf748a4321e9b64f3f07a6f835ba354e650d66aa3bda37b8a57016a9472"
+    },
+    {
+      "path": "results/r08_training_curve.json",
+      "bytes": 107397,
+      "sha256": "8f5168e4e36a3e151db7c873ae676d7c57d7c320a39e98a055530ef30aad7cc4"
+    },
+    {
+      "path": "results/scores.json",
+      "bytes": 45524,
+      "sha256": "0a8177ab53b3b322784fab42e686087d0b90565b6b5c2c9df3f234410c97e6e0"
+    },
+    {
+      "path": "results/selected_cases.md",
+      "bytes": 7329,
+      "sha256": "f28e930f68c727a20f7ed2017d2d33f1cb52a350a1ad4f474aef11c53c236808"
+    }
+  ]
+}
